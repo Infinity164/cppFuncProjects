@@ -10,7 +10,6 @@ int main()
 
     const int num = 10;
     int enda;
-    int summ = 0;
     int minIndex = 0;
     int maxIndex = 0;
     cin >> enda;
